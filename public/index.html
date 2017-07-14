@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+	<p>Search the web for images or see recent searches</p><br>	
+	Type of Search:
+	<select id="selection">
+		<option value="query">Search for Images</option>
+		<option value="recent">See Recent Searches</option>
+	</select><br><br><br>
+	Query: 
+	<input id="query" type="text"><br>
+	Page: 
+	<input id="page" type="number" min="1"><br>
+	Image Size: 
+	<select id="size">
+		<option>All</option>
+		<option>small</option>
+		<option>medium</option>
+		<option>large</option>
+		<option>xlarge</option>
+		<option>xxlarge</option>
+	</select><br><br><br>
+	Here's your URL:<div id="url">https://web-searcher.glitch.me</div>
+	<script type="text/javascript" src="imageSearch.js"></script>
+</body>
+</html>
