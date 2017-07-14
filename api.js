@@ -18,7 +18,7 @@ module.exports = function(app) {
 		var searchQuery = req.params.searchQuery;
 		var pages = req.query.page;
 		var sizes = req.query.size;
-		var client = new googleSearch('014891773094375619235:moqxe5kbibm', 'AIzaSyB-LodMyHRGXqIwXPNB4x-Xg5jFxddssjk');
+		var client = new googleSearch();
 		
 		mongo.connect('mongodb://localhost:27017/', function (err, db) {
 			if (err) throw err;
