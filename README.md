@@ -1,5 +1,5 @@
 ## FCC-Image-Search-Abstraction-Layer
-##### Image API project for [freecodecamp.com](https://www.freecodecamp.org/challenges/image-search-abstraction-layer)
+##### Image API project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://web-search.glitch.me/)
 
 <br/>
@@ -17,7 +17,6 @@
 ##### Technologies used to complete this project
 - HTML
 - JavaScript
-- NodeJS
+- Node
 - Express
-- MongoDB
-
+- Mongo
