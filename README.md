@@ -1,6 +1,6 @@
 ## FCC-Image-Search-Abstraction-Layer
 ##### Image API project for [freeCodeCamp](https://www.freecodecamp.org/)
-##### Check it out [here](https://web-search.glitch.me/)
+##### Check it out [here](https://web-searcher.glitch.me/)
 
 <br/>
 <br/>
